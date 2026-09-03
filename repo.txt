@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Hello git aaaaa 
+=======
+kouko1
+aya
+mimo
+
+>>>>>>> New-Branch
